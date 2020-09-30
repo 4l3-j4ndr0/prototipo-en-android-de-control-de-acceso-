@@ -1,0 +1,3 @@
+# prototipo-en-android-de-control-de-acceso-
+
+prototipo de control de acceso a local mediante numero de credencial, app para android, muestra tres mensajes al ingresar el numero de credencial, un chec para decir que pase, una 'x' para indicar que no existe y un mensaje escrito diciendo que la persona ya paso. en la base de datos puedes crear, editar y eliminar comensal. En la aplicacion la base de datos se muestra nombres a la izquierda y un toggle button a la derecha, muestra los comenzales que hallan pasado con el toggle button activo, al pasar 24 horas todos los toggle button pasan a estar desactivos automaticamente
