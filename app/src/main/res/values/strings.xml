@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PROYECTO MARIEL</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="id_info">id</string>
+    <string name="title">Información del desarrollador</string>
+    <string name="anadir">Añadir</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="estado">Cambiar estado</string>
+    <string name="config">Gestionar usuarios</string>
+
+<string name="description">Alejandro Rodas Cueto, soy el desarrollador de esta sencilla app
+realizada para facilitar el trabajo de usted.</string>
+</resources>
+
+

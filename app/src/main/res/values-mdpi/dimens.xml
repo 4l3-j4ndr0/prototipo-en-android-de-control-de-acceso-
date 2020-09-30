@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tamanyos para las imagenes . -->
+    <dimen name="width_ima">320dp</dimen>
+    <dimen name="height_ima">470dp</dimen>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/solapin"
+        android:hint="Solapín"
+        android:inputType="number"
+        android:maxLength="19"
+        android:textColor="#000000"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nombre"
+        android:hint="Nombre"
+        android:digits="QWERTYUIOPASDFGHJKLZXCVBNMÑÁÉÍÓÚáéíóúñqwertyuioplkjhgfdsazxcvbnm "
+        android:textColor="#000000"
+        />
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/botaceptar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/bot_check"
+             />
+
+        <Button
+            android:id="@+id/botcancelar"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/bot_cancelar"
+             />
+
+    </LinearLayout>
+
+</LinearLayout>
